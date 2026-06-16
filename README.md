@@ -39,13 +39,16 @@ Streamlit Web Interface
 ```
 
 ---
-
 ## Результаты работы веб-сервиса
-(web_result/1.png)
-(web_result/2.png)
-(web_result/3.png)
-(web_result/4.png)
-(web_result/5.png)
+![Главная страница веб-сервиса](web_result/1.png)
+
+![Интерактивная семантическая карта](web_result/2.png)
+
+![Таблица наблюдений объектов](web_result/3.png)
+
+![Таблица устойчивых объектов памяти](web_result/4.png)
+
+![Просмотр кадра из видео](web_result/5.png)
 
 ---
 
