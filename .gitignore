@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+data/*.mp4
+data/*.MP4
+data/*.mov
+data/*.MOV
+data/*.avi
+data/*.mkv
+
+runs/*/frames/
+runs/*/outputs/*.json
+runs/*/outputs/*.csv
